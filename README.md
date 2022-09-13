@@ -4,7 +4,7 @@ Currently working on my api [resapi](https://resapi.up.railway.app/)
 
 Looking for a repo to contribute to.
 
-<img src="https://www.codewars.com/users/reset/badges/large">
+<img src="https://www.codewars.com/users/resetxd/badges/large">
 
 <br>
 
