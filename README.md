@@ -1,8 +1,8 @@
 # 💫About Me :
 
-Currently working on my api [resapi](https://resapi.up.railway.app/)
+Currently working on any open source projects that i can find. DM yours on dicord `resetxd#8278`
 
-Looking for a repo to contribute to.
+`weekend programmer`
 
 <img src="https://www.codewars.com/users/resetxd/badges/large">
 
