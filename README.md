@@ -14,7 +14,6 @@ Currently working on any open source projects that i can find. DM yours on dicor
 
 ## 🌐Socials
 
-<a href="https://discord.gg/bP9VwFK8x6"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"> </a>
 
 
 # 💻Tech Stack
