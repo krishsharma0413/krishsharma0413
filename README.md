@@ -1,4 +1,6 @@
-# 💫About Me :
+# 💫About Me
+
+[![profile visits](https://visitcount.itsvg.in/api?id=ResetXD&icon=0&color=0)](https://visitcount.itsvg.in)
 
 DM me on discord `krishhh#0308` for any project related help.
 
@@ -12,12 +14,13 @@ DM me on discord `krishhh#0308` for any project related help.
 # 💻Tech Stack
 <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=AIOHTTP&logoColor=white"> <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white"> <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishsharma0413&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+# 📊GitHub Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+![more github stats](https://github-readme-streak-stats.herokuapp.com/?user=krishsharma0413&theme=dracula&hide_border=false)
+![even more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ResetXD&icon=0&color=0)](https://visitcount.itsvg.in)
+# Current Projects
+[![discordlevelingcard](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=DiscordLevelingCard)](https://github.com/krishsharma0413/DiscordLevelingCard) <br>[![pilcord](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=Pilcord)](https://github.com/krishsharma0413/Pilcord)
+
 
 <p><a href="https://www.buymeacoffee.com/resetxd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="resetxd" /></a>
