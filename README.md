@@ -1,6 +1,6 @@
 # 💫About Me
 
-[![profile visits](https://visitcount.itsvg.in/api?id=ResetXD&icon=0&color=0)](https://visitcount.itsvg.in)
+[![profile visits](https://visitcount.itsvg.in/api?id=krishsharma0413&icon=0&color=0)](https://visitcount.itsvg.in)
 
 DM me on discord `krishhh#0308` for any project related help.
 
