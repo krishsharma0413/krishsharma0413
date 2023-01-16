@@ -1,7 +1,5 @@
 # 💫About Me
 
-[![profile visits](https://visitcount.itsvg.in/api?id=krishsharma0413&icon=0&color=0)](https://visitcount.itsvg.in)
-
 DM me on discord `krishhh#0308` for any project related help.
 
 <a target="_blank" href="https://www.codewars.com/users/krishsharma0413"><img src="https://www.codewars.com/users/krishsharma0413/badges/large"></a>
