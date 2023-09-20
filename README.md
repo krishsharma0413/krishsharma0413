@@ -20,5 +20,3 @@ DM me on discord `krishhh#0308` for any project related help.
 # Current Projects
 [![discordlevelingcard](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=DiscordLevelingCard)](https://github.com/krishsharma0413/DiscordLevelingCard) <br>[![pilcord](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=Pilcord)](https://github.com/krishsharma0413/Pilcord)
 
-
-<p><a href="https://www.buymeacoffee.com/resetxd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="resetxd" /></a>
