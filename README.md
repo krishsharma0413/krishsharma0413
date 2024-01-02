@@ -18,5 +18,5 @@ DM me on discord `krishhh#0308` for any project related help.
 ![even more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # Current Projects
-[![discordlevelingcard](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=DiscordLevelingCard)](https://github.com/krishsharma0413/DiscordLevelingCard) <br>[![pilcord](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=Pilcord)](https://github.com/krishsharma0413/Pilcord)
-
+[![pilcord](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=Pilcord)](https://github.com/krishsharma0413/Pilcord)
+[![discordlevelingcard](https://github-readme-stats.vercel.app/api/pin/?username=krishsharma0413&repo=DiscordLevelingCard)](https://github.com/krishsharma0413/DiscordLevelingCard)
