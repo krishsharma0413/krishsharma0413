@@ -1,6 +1,7 @@
 # 💫About Me
 
-DM me on discord `krishhh#0308` for any project related help.
+I am a full-stack developer. I love coding in python and creating Open-Source projects!
+My hobbies apart from programming is photography.
 
 <a target="_blank" href="https://www.codewars.com/users/krishsharma0413"><img src="https://www.codewars.com/users/krishsharma0413/badges/large"></a>
 
