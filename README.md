@@ -1,4 +1,4 @@
-# 💫About Me
+<h1 align="center">✨Krish Sharma</h1>
 
 I am a full-stack developer. I love coding in python and creating Open-Source projects!
 My hobbies apart from programming is photography.
@@ -7,7 +7,7 @@ My hobbies apart from programming is photography.
 
 
 ## 🌐Socials
-<a href="https://www.discord.com/users/424133185123647488"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a> <a href="mailto:krishsharma0413"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>  <a href="https://www.codewars.com/users/krishsharma0413"><img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"></a>  <a href="https://resetxd.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"></a> <a href="https://myanimelist.net/profile/resetxd_"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2.svg?style=for-the-badge&logo=MyAnimeList&logoColor=white"></a>
+<a href="https://linkedin.com/in/krishsharma0413"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="https://www.discord.com/users/424133185123647488"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>  <a href="mailto:krishsharma0413"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>  <a href="https://www.codewars.com/users/krishsharma0413"><img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"></a>  <a href="https://resetxd.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"></a> <a href="https://myanimelist.net/profile/resetxd_"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2.svg?style=for-the-badge&logo=MyAnimeList&logoColor=white"></a>
 
 
 # 💻Tech Stack
