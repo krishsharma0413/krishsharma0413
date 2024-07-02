@@ -15,5 +15,7 @@ My hobbies apart from programming is photography.
 
 # 📊GitHub Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
-![more github stats](https://github-readme-streak-stats.herokuapp.com/?user=krishsharma0413&theme=dracula&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krishsharma0413&theme=dracula)
+
 ![even more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma0413&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
