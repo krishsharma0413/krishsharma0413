@@ -5,7 +5,7 @@ My hobbies apart from programming is photography.
 
 <a target="_blank" href="https://www.codewars.com/users/krishsharma0413"><img src="https://www.codewars.com/users/krishsharma0413/badges/large"></a>
 
-
+My website: https://krishsharma.in/ <br>
 Read my gists here :D - [click here](https://gist.github.com/krishsharma0413)
 
 ## 🌐Socials
